@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# main.py by Sajid Fadlelseed
+# insert.py by Sajid Fadlelseed
 
 
 from tkinter import *
