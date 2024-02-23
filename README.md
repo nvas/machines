@@ -7,11 +7,3 @@
 5. Click the "Insert" button to add the new machine data into the database.
 6. Click the "Clear" button to clear the search field and displayed data.
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
